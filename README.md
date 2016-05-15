@@ -19,11 +19,17 @@ Controls are:
 # Pictures
 
 *Using a Bomb*
+
 <img src="./images/Bomb.jpg" width="300">
+
 *Paused game*
+
 <img src="./images/Pause.jpg" width="300">
+
 *Game Over*
+
 <img src="./images/GameOver.jpg" width="300">
+
 
 # Downloadable JAR
 Wanna play ? Downloadable JAR [here](/release/Game-AND.jar?raw=true)
