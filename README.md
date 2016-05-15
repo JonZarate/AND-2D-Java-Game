@@ -32,6 +32,6 @@ Controls are:
 
 
 # Downloadable JAR
-Wanna play ? Downloadable JAR [here](/release/Game-AND.jar?raw=true)
+Wanna play ? Downloadable JAR [here](/releases/Game-AND.jar?raw=true)
 
 
